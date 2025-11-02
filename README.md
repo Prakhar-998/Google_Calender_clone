@@ -37,7 +37,7 @@ git clone [https://github.com/Prakhar-998/Google_Calender_clone.git](https://git
 cd Google_Calender_clone
 ```
 
-**1. Dependencies**
+**2. Dependencies**
 ```bash
 npm install
 ```
