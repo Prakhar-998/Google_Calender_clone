@@ -5,7 +5,7 @@ This project is a full-stack, responsive clone of Google Calendar. It allows use
 ![Screenshot of the Google Calendar Clone application]
 ![alt text](<Screenshot (460).png>)
 
-## 🚀 Features
+## Features
 
 * **View Switching:** Dynamically switch between Monthly, Weekly, and Daily calendar views.
 * **Event CRUD:** Full Create, Read, Update, and Delete functionality for calendar events.
@@ -35,9 +35,19 @@ This project is a full-stack, responsive clone of Google Calendar. It allows use
 ```bash
 git clone [https://github.com/Prakhar-998/Google_Calender_clone.git](https://github.com/Prakhar-998/Google_Calender_clone.git)
 cd Google_Calender_clone
+```
 
 **1. Dependencies**
+```bash
 npm install
+```
 
 **3.Run**
+```bash
 npm run dev
+```
+
+### Additional screenshots:
+![alt text](<Screenshot (461).png>)
+
+![alt text](<Screenshot (462).png>)
